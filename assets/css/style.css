@@ -132,6 +132,12 @@ h2 {
     margin-top: 20px;
 }
 
+#reserve-button {
+    display: block;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
 /*.container,
 .row {
     border: 2px solid black; 
