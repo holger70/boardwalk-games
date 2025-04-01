@@ -118,7 +118,19 @@ h2 {
 #contact .table-dark * {
     background-color: transparent;
 }
-/*grid visualization CSS for testing*/
+#student-discount {
+    background-color: var(--highlight-color);
+    color: white;
+    padding: 1rem;
+    margin-top: 2rem;
+    width: 400px;
+    text-align: center;
+}
+
+.bottom-button {
+    width: 200px;
+    margin-top: 20px;
+}
 
 /*.container,
 .row {
