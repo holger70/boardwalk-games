@@ -140,6 +140,17 @@ h2 {
     margin-top: 10px;
 }
 
+#new-games .card-text {
+    min-height: 200px;;
+}
+#fav-games .card {
+    min-height: 545.48px;
+}
+#booking-button {
+    margin-bottom: 20px;
+}
+
+
 /*media queries*/
 
 /*Medium devices (tablets, 768px and up)*/
